@@ -2,7 +2,7 @@
 
 ExampleLink
 1) [«Hello, OTUS!»](./hw01_hello_otus)
-2) [«Распаковка строки»](./hw02_unpack_string)
+<!-- 2) [«Распаковка строки»](./hw02_unpack_string)
 3) [«Частотный анализ»](./hw03_frequency_analysis)
 4) [«LRU-кэш»](./hw04_lru_cache)
 5) [«Параллельное исполнение»](./hw05_parallel_execution)
@@ -16,6 +16,6 @@ ExampleLink
 13) [«API к Календарю»](./hw12_13_14_15_calendar/docs/13_README.md)
 14) [«Кроликизация Календаря»](./hw12_13_14_15_calendar/docs/14_README.md)
 15) [«Докеризация и интеграционное тестирование Календаря»](./hw12_13_14_15_calendar/docs/15_README.md)
-16) [«Проект»](https://github.com/OtusGolang/final_project)
+16) [«Проект»](https://github.com/OtusGolang/final_project) -->
 
 
