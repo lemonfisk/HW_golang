@@ -21,6 +21,7 @@
 
 ### OTUS BASIC
 
+1. [«Программа печатающая текущее время (библиотеки NTP)»](./base/hw01_time)
 2. [«Чиним, собираем и запускаем приложение»](./base/hw02_fix_app)
 
 <!-- 
@@ -44,3 +45,10 @@
 
 ---
 Используемая версия [golangci-lint](https://golangci-lint.run/usage/install/#other-ci): <b>v1.53.3</b> -->
+
+### Go doc
+
+1. [«gowiki»](./go_doc/gowiki)
+2. [«fuzz»](./go_doc/fuzz)
+3. [«generics»](./go_doc/generics)
+4. [web-service-gin](./go_doc/web-service-gin)
