@@ -58,10 +58,9 @@ func main() {
 			case Circle:
 				fmt.Printf("Circle: Radius %.0f Area: %f\n", s.Radius, area)
 			case Rectangle:
-				fmt.Printf("Rectangle: Radius %.0f Area: %f\n", s.Width, s.Height)
+				fmt.Printf("Rectangle: Width %.0f, Height %.0f, Area: %f\n", s.Width, s.Height, area)
 			case Triangle:
-				fmt.Printf("Triangle: Radius %.0f Area: %f\n", s.Base, s.Height)
-
+				fmt.Printf("Triangle: Base %.0f, Height %.0f, Area: %f\n", s.Base, s.Height, area)
 			}
 
 		}
