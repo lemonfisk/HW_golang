@@ -44,6 +44,11 @@
 15) [«Go-клиент для БД онлайн магазина»](./base/hw15_go_sql)
 15) [«Контейнеризация приложения»](./base/hw16_docker)
 
+### LEETCODE
+1. [«1 - Two Sum»](./easy/two_sum)
+2. [«9 - Palindrome Number»](./leetcode/easy/palindrome_number)
+3. [«13 - Roman to Integer»](./leetcode/easy/roman_to_integer)
+
 [Инструкция по сдаче ДЗ](https://github.com/OtusGolang/home_work/wiki#%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%BC).
 
 Используемая версия [golangci-lint](https://golangci-lint.run/usage/install/#other-ci): <b>v1.53.3</b> -->
